@@ -1,2 +1,2 @@
 # HelloWorld
-inaugural repository for learning github
+inaugural repository for playing with github
